@@ -69,23 +69,7 @@ footer{
 
 }
 
-.logo1{
-	float: left;
-	margin-top: 100px;
-	margin-left: 50px;
-	height: 100px;
-}
-
-.logo2{
-	float: left;
-	margin-top: 250px;
-	height: 100px;
-	margin-left: 10px;
-}
-
-.logo3{
-	float: left;
-	margin-top: 400px;
-	height: 100px;
-	margin-left: 10px;
+.scrolls{
+	margin-top: 90px;
+	margin-left: 500px;
 }
