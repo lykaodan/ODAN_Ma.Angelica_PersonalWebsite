@@ -14,7 +14,7 @@ body{
 
 .nav ul li{
 	list-style: none;
-	padding: 0px 25px;
+	padding: 0px 35px;
 }
 
 .nav a{
@@ -25,11 +25,14 @@ body{
 	padding: 10px 10px;
 	text-decoration: none;
 	font-size: 20px;
+	border: 1px solid #888;
+	transition: width 1s;
 }
 
 .nav a:hover{
-	background-color: #ddd;
-	color: black;
+	background-color: black;
+	box-shadow: 2px 2px 2px #888;
+	width: 100px;
 }
 
 .nav a.active{
