@@ -14,12 +14,13 @@ body{
 
 .nav ul li{
 	list-style: none;
+	padding: 0px 25px;
 }
 
 .nav a{
 	float: left;
 	display: block;
-	color: #cccccc;
+	color: #e6e6e6;
 	text-align: center;
 	padding: 10px 10px;
 	text-decoration: none;
