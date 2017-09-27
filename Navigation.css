@@ -26,7 +26,7 @@ body{
 #SecondDiv ul a{
 	text-decoration: none;
 	color: white;
-	padding: 20px;
+	padding: 25px;
 }
 
 #SecondDiv ul li{
@@ -41,13 +41,6 @@ body{
 
 }
 
-#SecondDiv h1{
-	width: 200px;
-	float: left;
-	cursor: pointer;
-	margin-left: 15px: 
-	color: white;
-}
 .border{
 	top: 0;
 	left: 0;
@@ -58,4 +51,6 @@ body{
 	padding: 0;
 	box-sizing: border-box;
 }
+
+
 
