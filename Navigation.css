@@ -1,59 +1,40 @@
 body{
-	font-family: Georgia;
+	font-family: Courier;
 	background-image: url(bg.jpg);
 	background-size: 100% 110%;
 	background-repeat: no-repeat;
 }
 
+ul{
+	width: 500px;
+	padding: 7px;
+	margin: 0px auto 0px auto;
+	border-top: 2px double #000;
+	border-bottom: 1px dashed #000;
+	text-align: center;
+}
+
+li{
+	display: inline;
+	margin: 0px 40px;
+	font-size: 25px;
+}
+
 .page{
 	max-width: 940px;
 	min-width: 720px;
-	margin: 85px 180px 50px auto;
+	margin: 65px 180px 50px auto;
 	padding: 20px;
 	border: 6px double #000;
+	-moz-box-shadow: inset 0 0 10px #777777 ;
+	-webkit-box-shadow: inset 0 0 10px #777777;
+	box-shadow: inset 0 0 10px #777777;
 	-moz-box-shadow: 5px 5px 5px 5px #777777 ;
 	-webkit-box-shadow: 5px 5px 5px 5px #777777;
 	box-shadow: 5px 5px 5px 5px #777777;
 }
 
-.nav{
-	overflow: hidden
-	float: right;
-	opacity: 0.6;
-}
 
-.nav ul li{
-	list-style: none;
-	padding: 0px 35px;
-}
-
-.nav a{
-	float: left;
-	display: block;
-	color: #e6e6e6;
-	text-align: center;
-	padding: 10px 10px;
-	text-decoration: none;
-	font-size: 20px;
-	border: 1px solid #888;
-	transition: width 1s;
-}
-
-.nav a:hover{
-	border: 2px solid;
-	border-style: solid;
-	border-color: #404040;	
-	width: 100px;
-	text-decoration-color: black;
-	border-radius: 7px;
-	-moz-border-radius: 7px;
-	-webkit-border-radius: 7px;
-}
-
-.nav a.active{
-	background-color: red;
-	color: white;
-}
 
 h2{
 	letter-spacing: 0.2em;
