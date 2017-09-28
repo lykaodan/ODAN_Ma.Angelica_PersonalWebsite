@@ -30,9 +30,11 @@ body{
 }
 
 .nav a:hover{
-	background-color: black;
-	box-shadow: 2px 2px 2px #888;
+	border: 3px solid;
+	border-style: solid;
+	border-color: #404040;	
 	width: 100px;
+	text-decoration-color: black;
 }
 
 .nav a.active{
@@ -40,3 +42,8 @@ body{
 	color: white;
 }
 
+h2{
+	letter-spacing: 0.2em;
+	text-align: center;
+
+}
