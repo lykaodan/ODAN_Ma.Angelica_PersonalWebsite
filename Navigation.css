@@ -5,6 +5,16 @@ body{
 	background-repeat: no-repeat;
 }
 
+.page{
+	max-width: 940px;
+	min-width: 720px;
+	margin: 85px 180px 50px auto;
+	padding: 20px;
+	border: 6px double #000;
+	-moz-box-shadow: 5px 5px 5px 5px #777777 ;
+	-webkit-box-shadow: 5px 5px 5px 5px #777777;
+	box-shadow: 5px 5px 5px 5px #777777;
+}
 
 .nav{
 	overflow: hidden
