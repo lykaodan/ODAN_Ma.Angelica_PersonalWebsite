@@ -39,3 +39,18 @@ body{
 	background-color: red;
 	color: white;
 }
+
+.box{
+	margin: 30px;
+	background-color: #ffffff;
+	border: 1px solid black;
+	opacity: 0.6;
+	filter: alpha(opacity=60);
+	width: 100px;
+}
+
+.box p{
+	margin: 5%
+	font-weight: bold;
+	color: #000000;
+}
