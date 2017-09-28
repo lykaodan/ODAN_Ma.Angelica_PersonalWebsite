@@ -5,22 +5,19 @@ body{
 	background-repeat: no-repeat;
 }
 
-ul{
-	top: 3;
-	width: 550px;
-	padding: 7px;
-	margin: 0px auto 0px auto;
-	border-top: 2px double #000;
-	border-bottom: 1px dashed #000;
-	text-align: center;
-	color: black;
+.nav a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
 }
 
-li{
-	display: inline;
-	margin: 0px 40px;
-	font-size: 25px;
-	letter-spacing: 0.1	em;
+.nav a:hover {
+  background-color: #ddd;
+  color: black;
 }
 
 .border{
