@@ -57,6 +57,12 @@ body{
 	width: 250px;
 	height: 250px;
 	border-radius: 50%;
-	margin-top: 170px;
+	margin-top: 100px;
 	margin-left: 250px;
+}
+
+.notepad{
+	height: 350px;
+	margin-top: 170px;
+	margin-left: 130px;
 }
