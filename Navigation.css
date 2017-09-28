@@ -1,12 +1,12 @@
 body{
 	font-family: Georgia;
-	background-image: url(background.jpg);
+	background-image: url(bg.jpg);
 	background-size: 100% 110%;
 	background-repeat: no-repeat;
 }
 
+
 .nav{
-	background-color: #808080;
 	overflow: hidden
 	float: right;
 	opacity: 0.6;
