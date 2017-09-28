@@ -35,9 +35,8 @@ body{
 	float: right;
 }
 
-#SecondDiv ul li:hover{
-	background: #8c8c8c;
-	transition: all 0.40;
+#SecondDiv ul li a:hover{
+	color: pink;
 
 }
 
@@ -52,6 +51,7 @@ body{
 	padding: 0;
 	box-sizing: border-box;
 }
+
 
 
 
