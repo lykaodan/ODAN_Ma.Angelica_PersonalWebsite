@@ -1,6 +1,6 @@
 body{
 	font-family: Courier;
-	background-image: url(try.jpg);
+	background-image: url(backg.jpg);
 	background-size: 100% 110%;
 	background-repeat: no-repeat;
 }
@@ -53,3 +53,10 @@ body{
 	box-sizing: border-box;
 }
 
+.circleimage{
+	width: 250px;
+	height: 250px;
+	border-radius: 50%;
+	margin-top: 170px;
+	margin-left: 250px;
+}
