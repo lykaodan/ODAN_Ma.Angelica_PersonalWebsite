@@ -54,10 +54,17 @@ body{
 }
 
 footer{
-	padding: 5px;
+	padding: 0px;
 	color: white;
 	background-color: rgba(0, 0, 0, 0.69);
 	clear: left;
 	text-align: center;
-	margin-top: 472px;
+	margin-top: 482px;
+}
+
+.side{
+	margin-top: 200px;
+	height: 400px;
+	float: right;
+
 }
