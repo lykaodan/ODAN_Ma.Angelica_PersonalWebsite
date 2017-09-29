@@ -10,6 +10,8 @@ body{
 	margin: 0px;
 }
 
+
+
 #MainDiv{
 	width: 100%;
 	height: 666px;
@@ -57,12 +59,21 @@ body{
 	width: 250px;
 	height: 250px;
 	border-radius: 50%;
-	margin-top: 100px;
+	margin-top: 90px;
 	margin-left: 250px;
 }
 
 .notepad{
-	height: 350px;
+	height: 320px;
 	margin-top: 170px;
 	margin-left: 130px;
+}
+
+footer{
+	padding: 0px;
+	color: white;
+	background-color: rgba(0, 0, 0, 0.69);
+	clear: left;
+	text-align: center;
+	margin-top: 482px;
 }
